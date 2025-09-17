@@ -4,5 +4,4 @@ Study Plan Erlangga Syafutra
 - Laragon
 - Python
  *Django
-- JS
- *Angular
+- JS dan React
