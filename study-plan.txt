@@ -3,4 +3,5 @@ Study Plan Erlangga Syafutra
 - Laravel
 - Laragon
 - Python
+ *Django
 - JS dan React
